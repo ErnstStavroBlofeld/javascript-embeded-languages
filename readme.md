@@ -1,8 +1,8 @@
-<div style="text-align: center">
+<center>
   <img src="./assets/icon.jpg" width="64">
   <h1>Javascript Embeded Languages</h1>
   <p>Bring syntax highlighting from other languages to JS.</p>
-</div>
+</center>
 
 <img src="./assets/preview.png">
 
