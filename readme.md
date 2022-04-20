@@ -4,7 +4,7 @@
   <h1>Javascript Embeded Languages</h1>
   <p>Bring syntax highlighting from other languages to JS.</p>
 
-  <img src="./assets/preview.png" width="400px">
+  <img src="./assets/preview.png" width="600px">
 </div>
 
 Supported languages:
