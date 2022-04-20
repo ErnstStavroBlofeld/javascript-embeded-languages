@@ -1,0 +1,45 @@
+{
+    "icon": "./assets/icon.jpg",
+    "name": "js-embeded-languages",
+    "displayName": "JS Embeded Languages",
+    "description": "Provides syntax highlighting for multiple languages within JS files",
+    "version": "0.0.1",
+    "license": "MIT",
+    "keywords": [
+        "javascript",
+        "js",
+        "syntax",
+        "highlighting"
+    ],
+    "categories": [
+        "Programming Languages",
+        "Themes"
+    ],
+    "author": {
+        "name": "Philipp Baszuk",
+        "email": "philipp@basz.uk",
+        "url": "http://basz.uk/"
+    },
+    "publisher": "Philipp Baszuk",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/"
+    },
+    "bugs": {
+        "url": "https://github.com/issues"
+    },
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "contributes": {
+        "grammars": [
+            {
+                "scopeName": "source.javascript.embeded-block",
+                "path": "./grammars/embeded.json",
+                "injectTo": [
+                    "source.js"
+                ]
+            }
+        ]
+    }
+}
