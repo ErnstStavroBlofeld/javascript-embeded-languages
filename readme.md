@@ -1,10 +1,11 @@
 <div align="center">
   <img src="./assets/icon.jpg" width="64">
+
   <h1>Javascript Embeded Languages</h1>
   <p>Bring syntax highlighting from other languages to JS.</p>
-</div>
 
-<img src="./assets/preview.png">
+  <img src="./assets/preview.png" width="400px">
+</div>
 
 Supported languages:
   - html
