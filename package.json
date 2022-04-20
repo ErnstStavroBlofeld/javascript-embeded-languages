@@ -23,10 +23,10 @@
     "publisher": "Philipp Baszuk",
     "repository": {
         "type": "git",
-        "url": "https://github.com/"
+        "url": "https://github.com/ErnstStavroBlofeld/javascript-embeded-languages"
     },
     "bugs": {
-        "url": "https://github.com/issues"
+        "url": "https://github.com/ErnstStavroBlofeld/javascript-embeded-languages/issues"
     },
     "engines": {
         "vscode": "^1.66.0"
